@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(163, 181, 202);
+    border-style: double;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+}
+
+h3.header {
+    color: rgb(160, 20, 20);
+    margin-left: 20px;
+    
+}
+article {
+    margin-left: 40px;
+}
+
+table#eduqua{
+    margin-left: 10px;
+}
+
+table{
+    margin-left: 40px;
+}
+
+h4,i,ul{
+    margin-left: 40px;
+}
+
+b, p#Ref {
+    margin-left: 40px;
+}
+footer{
+    
+    padding: 20px;
+    text-align: justify;
+    
+}
+
+div#contact{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
